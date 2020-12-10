@@ -12,19 +12,7 @@ c. npm
 
 a. pip install -U pip setuptools
 
-b. pip install \
-    graphviz \
-    hypothesis \
-    ipython \
-    jupyter \
-    matplotlib \
-    notebook \
-    pydot \
-    python-nvd3 \
-    pyyaml \
-    requests \
-    scikit-image \
-    scipy
+b. pip install graphviz hypothesis ipython jupyter matplotlib notebook pydot python-nvd3 pyyaml requests scikit-image scipy
     
 c. conda install pytorch-nightly-cpu -c pytorch
 
