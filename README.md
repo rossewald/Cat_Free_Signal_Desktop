@@ -1,6 +1,6 @@
-Installation Instructions for Mac:
+#Installation Instructions for Mac:
 
-1. Check you have these dependencies installed:
+##1. Check you have these dependencies installed:
 
 a. git
 
@@ -8,7 +8,7 @@ b. XCode command-line tools
 
 c. npm
 
-2. Install additional packages by running these commands from the terminal:
+##2. Install additional packages by running these commands from the terminal:
 
 a. pip install -U pip setuptools
 
