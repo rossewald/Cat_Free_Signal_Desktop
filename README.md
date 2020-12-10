@@ -1,3 +1,8 @@
+# Intro
+
+This fork of Signal-Desktop implements ML-based contnet moderation for harmful content, preventing users from sending images of cats. Here, cat photos are a stand-in for any kind of harmful content, and this project serves as a proof-of-concept for any kind of ML-based contnet moderation on any end-to-end encrypted platform.
+
+
 # Installation Instructions for Mac:
 
 ## 1. Check you have these dependencies installed:
